@@ -21,5 +21,13 @@ Getting started
     download python from the official website
     open a cmd window and install modules using pip install -r requirements.txt
     main.py
+                                                      🪪 Created By
 
-star pls <3
+#
+|*Information:* | *Response:* |
+|--------------|------------ |
+| *Made By :*   |        IW deleted     |
+| *User :*      |iwdeleted |
+| *Server :*   | https://discord.gg/toolfr |
+
+                                                          
