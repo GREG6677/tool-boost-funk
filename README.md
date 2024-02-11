@@ -21,9 +21,9 @@ Getting started
     download python from the official website
     open a cmd window and install modules using pip install -r requirements.txt
     main.py
-                                                     
-                                                      
-                                                      🪪 Created By
+
+
+🪪 Created By
 #
 |*Information:* | *Response:* |
 |--------------|------------ |
