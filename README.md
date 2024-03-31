@@ -29,6 +29,6 @@ Getting started
 |--------------|------------ |
 | *Made By :*   |        IW deleted     |
 | *User :*      |iwdeleted |
-| *Server :*   | https://discord.gg/toolfr |
+| *Server :*   | https://discord.gg/AD5gSrtGpt |
 
                                                           
