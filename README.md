@@ -28,7 +28,7 @@ Getting started
 |*Information:* | *Response:* |
 |--------------|------------ |
 | *Made By :*   |        IW deleted     |
-| *User :*      |iwdeleted |
+| *User :*      |iwdeleted. |
 | *Server :*   | https://discord.gg/AD5gSrtGpt |
 
                                                           
