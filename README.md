@@ -22,13 +22,8 @@ Getting started
     open a cmd window and install modules using pip install -r requirements.txt
     main.py
 
+## Contact Me
 
-                            🪪 Created By
-#
-|*Information:* | *Response:* |
-|--------------|------------ |
-| *Made By :*   |        IW deleted     |
-| *User :*      |iwdeleted. |
-| *Server :*   | https://discord.gg/AD5gSrtGpt |
-
-                                                          
+﹒[Discord](https://discord.gg/fQXQZG5hvX)
+﹒[Telegram](https://t.me/IWCommunityDiscord)
+﹒[Shop](https://iwcommunity.sellpass.io/)
