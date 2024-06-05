@@ -1,4 +1,4 @@
-# 🎃 tool-boost-funk
+# 🎃 tool-boost-funK
 
 I cleand this boost tool which previosly had a malware that steals files.
 This version is fully cleaned, your welcome to check it, its open source.
